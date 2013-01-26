@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 first time
 
 
 this this this
+=======
+
+
+first time
+>>>>>>> git_hun/master
